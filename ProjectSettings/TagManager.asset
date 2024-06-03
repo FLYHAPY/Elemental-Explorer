@@ -6,16 +6,20 @@ TagManager:
   tags:
   - Bullet
   - WaterBullet
+  - Golem
+  - Air
+  - isburning
+  - GameMusic
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Bullet
+  - Firebullet
+  - Air
   - 
   - 
   - 
